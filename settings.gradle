@@ -1,0 +1,2 @@
+rootProject.name='Admin 2D&3D'
+include ':app'
