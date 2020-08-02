@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:layout_height="50dp"
+    android:layout_margin="5dp"
+    android:elevation="20dp">
+    <TextView
+        android:id="@+id/txtDate"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:text="3 / 3 / 2017"
+        android:textSize="16sp"
+        android:textColor="#D500F9"/>
+    <TextView
+        android:id="@+id/txtMorning"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:text="22"
+        android:textColor="#F50057"
+        android:textSize="16sp"/>
+    <TextView
+        android:id="@+id/txtEvening"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:textColor="#388E3C"
+        android:layout_height="match_parent"
+        android:text="23"
+        android:textSize="16sp"/>
+
+
+
+
+
+
+
+</LinearLayout>
